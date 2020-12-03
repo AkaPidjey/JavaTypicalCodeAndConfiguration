@@ -1,4 +1,4 @@
-[Java TypicalCodeAndTask](README.md)
+[Java TypicalCodeAndConfiguration](README.md)
 
 # Арабские и римские цифры
 
